@@ -1,6 +1,9 @@
 ## heisann 👋
 ### readme
-Studerer Informasjonsteknologi Frontend- og mobilutvikling på Høyskolen Kristiania.
+Student på Høyskolen Kristiania. 
+Holder på med en bachelor i Informasjonsteknologi - Frontend- og mobilutvikling. Ferdig Juni 2023.
+
+For øyeblikket fokuserer jeg på å forbedre mine kunnskaper innenfor HTML/CSS/JS, med spesielt fokus på å lære React.js.
 
 ### Språk
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -19,7 +22,11 @@ Studerer Informasjonsteknologi Frontend- og mobilutvikling på Høyskolen Kristi
 <img align="left" alt="VSC" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="IntelliJ" width="32px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 
-<br/>
+<br>
+
+---------------------
+
+Skjekk ut profilen min på [Frontend Mentor! <img align="center" alt="Frontend Mentor" width="32px" src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png"/>](https://www.frontendmentor.io/profile/Soleimsen)
 <!--
 **Soleimsen/Soleimsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
