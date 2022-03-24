@@ -26,8 +26,6 @@ For øyeblikket fokuserer jeg på å forbedre mine kunnskaper innenfor HTML/CSS/
 
 ---------------------
 
-Skjekk ut profilen min på <a href="https://www.frontendmentor.io/profile/Soleimsen" target="_blank">Frontend Mentor! <img align="center" alt="Frontend Mentor" width="32px" src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png"/></a>
-
 <!--
 **Soleimsen/Soleimsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
