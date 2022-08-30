@@ -12,7 +12,6 @@ For øyeblikket fokuserer jeg på å forbedre mine kunnskaper innenfor HTML/CSS/
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="Java" width="32px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg"/>
 <img align="left" alt="Kotlin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>
-<img align="left" alt="Maven" width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
 <img align="left" alt="MySQL" width="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
 
 <br>
